@@ -12,7 +12,7 @@ import (
 	"regexp"
 	"strings"
 
-	"xi2.org/x/xz"
+	"github.com/xi2/xz"
 )
 
 // Type defines the archive types that can be processed
